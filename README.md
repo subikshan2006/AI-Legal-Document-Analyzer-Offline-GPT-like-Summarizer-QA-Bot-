@@ -1,0 +1,1 @@
+# AI-Legal-Document-Analyzer-Offline-GPT-like-Summarizer-QA-Bot-
